@@ -1,6 +1,6 @@
 # ctf-browser-visitor
 
-Bot visitor for XSS challenges in CTF
+[source](https://github.com/osirislab/ctf-browser-visitor.git) Bot visitor for XSS challenges in CTF
 ~~~
 docker build -t getting-started .
 ~~~
