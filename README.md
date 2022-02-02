@@ -7,6 +7,7 @@ docker build -t getting-started .
 ~~~
 http://127.0.0.1:5000/visit?job={"url":"url_to_visit","cookies":{"key":"value"}}
 ~~~
+
 ## Project description
 Build Status docs pypi http python license
 
@@ -51,4 +52,4 @@ $ tox
 this will check the code style and run the tests.
 
 ### Help
-The Hypercorn documentation is the best place to start, after that try searching stack overflow, if you still can’t find an answer please open an issue.
+The Hypercorn [documentation](https://pypi.org/project/hypercorn/) is the best place to start, after that try searching stack overflow, if you still can’t find an answer please open an issue.
